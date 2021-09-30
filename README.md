@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployed app link
+### Frontend
+https://cocky-montalcini-4d1f7b.netlify.app/
+### Backend
+https://online-invitation-application.herokuapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
