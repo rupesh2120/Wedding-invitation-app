@@ -16,7 +16,8 @@ export default function EmailSend() {
 					alert("Invitaion Sent !");
 					let history = createHistory();
 
-					history.push("/login-stream");
+					//history.push("/login-stream");
+					history.push("plainstream");
 					let pathUrl = window.location.href;
 					window.location.href = pathUrl;
 				}
