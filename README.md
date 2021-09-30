@@ -32,10 +32,15 @@ Download the project on your local machine.
 Just do npm i inside the invitation-sender folder. This will install all
 the required dependencies.
 
+### Running the application on local Machine
+
+If you want to run it online. Just download the backend source code for this project in my repository
+ which is named online-wedding-backend. Then go to server directory and do npm i. It will install all
+ the required dependencies for backend. And in our frontend directory change all the url to localhost url.
+
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+and run the backend by node index.js.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
