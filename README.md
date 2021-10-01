@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/36697896/135414930-e0d9755f-02d6-4074-
 
 ### Download the project
 
-Download the project on your local machine.
+Download or clone the project on your local machine.
 Just do npm i inside the invitation-sender folder. This will install all
 the required dependencies.
 
